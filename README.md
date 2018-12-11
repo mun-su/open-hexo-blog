@@ -19,9 +19,10 @@
 title: Seo
 # Blog admin
 author: Mun-su Seo
-# Blog url
+# Blog url (사용자 이름.github.io)
 url: https://mun-su.github.io
 
+# git pages 배포를 하기위한 설정.
 deploy:
   # Git
   type: git
