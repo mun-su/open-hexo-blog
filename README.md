@@ -1,5 +1,9 @@
 # Hexo를 이용한 Blog.
 
+## 환경
+- Node js
+- NPM
+
 ## Feature
 - Sitemap
 - Search
@@ -36,3 +40,11 @@ social:
 # Google Console 연동하여 analytics 사용시 개인의 Key를 입력하여 사용
 google_analytics:
 ```
+
+## 기본 명령어
+| Command | Short Command | Description |
+|:-------:|:-------------:|:------------|
+| hexo server | 없음 | 개발용 Node 서버 실행 |
+| hexo clean | 없음 | build 제거 |
+| hexo generate | hexo g | build |
+| hexo deploy | hexo d | 배포 |
